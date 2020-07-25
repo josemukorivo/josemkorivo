@@ -2,7 +2,7 @@
   👋 Hey there i'm Joseph
 </h1>
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack, Python, Golang, Docker.
+I'm a software engineer who is passionate about making gret software, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack, Python, Golang, Docker.
 
 
 ## Find me around the web:
