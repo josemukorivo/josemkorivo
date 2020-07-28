@@ -2,7 +2,7 @@
   👋 Hey there i'm Joseph
 </h1>
 
-<img src="https://github.com/josemkorivo/josemkorivo/blob/master/jose.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/josemkorivo/josemkorivo/blob/master/jose.png" alt="banner that says Joseph Mukorivo - Software Engineer, DevOps Enthusiast">
 I'm a software engineer who is passionate about making great software, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack, Python, Golang, Docker.
 
 
