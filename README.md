@@ -7,5 +7,5 @@ I'm a software engineer who is passionate about making great software, creating 
 
 
 ## Find me around the web:
-- Portifolio <a href="https://josemukorivo.co.zw">Joseph Mukorivo</a>
+- Portifolio <a href="https://josemukorivo.dev">Joseph Mukorivo</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/josemukorivo/">LinkedIn</a> 💼
